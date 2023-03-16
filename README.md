@@ -4,7 +4,7 @@
  Download:
  https://github.com/JaneQ14/Date-Changer/releases/download/windows/Date.Changer.exe
  
- Screens:
+Screens:\n
 ![](https://github.com/JaneQ14/Date-Changer/blob/main/.img/folder.png)
 ![](https://github.com/JaneQ14/Date-Changer/blob/main/.img/options.png)
 ![](https://github.com/JaneQ14/Date-Changer/blob/main/.img/file.png)
