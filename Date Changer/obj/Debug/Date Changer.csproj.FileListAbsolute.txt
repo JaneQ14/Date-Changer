@@ -1,0 +1,22 @@
+C:\Users\Janek\source\repos\Date Changer\Date Changer\bin\Debug\Date Changer.exe.config
+C:\Users\Janek\source\repos\Date Changer\Date Changer\bin\Debug\Date Changer.exe
+C:\Users\Janek\source\repos\Date Changer\Date Changer\bin\Debug\Date Changer.pdb
+C:\Users\Janek\source\repos\Date Changer\Date Changer\obj\Debug\Date Changer.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Date Changer\Date Changer\obj\Debug\Date Changer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Janek\source\repos\Date Changer\Date Changer\obj\Debug\Date_Changer.DateChanger.resources
+C:\Users\Janek\source\repos\Date Changer\Date Changer\obj\Debug\Date_Changer.Properties.Resources.resources
+C:\Users\Janek\source\repos\Date Changer\Date Changer\obj\Debug\Date Changer.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\Date Changer\Date Changer\obj\Debug\Date Changer.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Date Changer\Date Changer\obj\Debug\Date Changer.exe
+C:\Users\Janek\source\repos\Date Changer\Date Changer\obj\Debug\Date Changer.pdb
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\obj\Debug\Date Changer.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\obj\Debug\Date Changer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\obj\Debug\Date_Changer.DateChanger.resources
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\obj\Debug\Date_Changer.Properties.Resources.resources
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\obj\Debug\Date Changer.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\obj\Debug\Date Changer.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\obj\Debug\Date Changer.exe
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\obj\Debug\Date Changer.pdb
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\bin\Debug\Date Changer.exe.config
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\bin\Debug\Date Changer.exe
+C:\Users\Janek\source\repos\Date-Changer\Date Changer\bin\Debug\Date Changer.pdb
