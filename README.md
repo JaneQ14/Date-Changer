@@ -1,5 +1,5 @@
 # Date-Changer
- a program that changes the date of files and folders (.NET required).
+Program that changes the date of files and folders (Windows .NET required)
  
  Download:
  https://github.com/JaneQ14/Date-Changer/releases/download/windows/Date.Changer.exe
