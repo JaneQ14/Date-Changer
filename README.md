@@ -7,5 +7,7 @@
 Screens:
 
 ![](https://github.com/JaneQ14/Date-Changer/blob/main/.img/folder.png)
+
 ![](https://github.com/JaneQ14/Date-Changer/blob/main/.img/options.png)
+
 ![](https://github.com/JaneQ14/Date-Changer/blob/main/.img/file.png)
